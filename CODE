@@ -1,0 +1,186 @@
+<html>
+<title>
+  Module 4 Discussion
+</title>
+
+
+<head>
+  <center>
+
+    <img src="https://logos-world.net/wp-content/uploads/2021/02/Rainbow-Six-Logo.png" width="340">
+    <div class="titling"><h1>Top 5 Camera Based Operators</h1>----------------------------------------------------------------------</div>
+  <div class="titlesub">  <h3>Ranking Factors</h3>
+    <p> &nbsp; 
+    </p>
+    </div>
+    
+    <div class="h3"> 
+    <ol>
+  <li>Camera Coverage</li>
+  <li>Gadget Amount</li>
+  <li>X Factor </li>
+</ol></div>
+    </br></br>
+  
+    <meta name="viewport" content="witdth=device-width, inital scale=1.0">
+  </center>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="p">
+    <div class="table-box">
+      <div class="table-row table-head">
+        <div class="table-cell">
+          <p>Icon</p>
+        </div>
+        <div class="table-cell">
+          <p> Operator</p>
+        </div>
+        <div class="table-cell">
+          <p>Rating</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="table-row">
+      <div class="table-cell">
+    <div class='thumb'> <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/maestro">
+    <img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/XK43imgD0tc0xrk0tgTCQ/0402cc95cbd525debafa1aab0fdd8385/Y3S2_BADGE_Maestro_L.png" width=125 alt="Clickable Image"></div>
+      </a>
+      </div>
+
+      <div class="table-cell">
+        <p>Maestro</p>
+      </div>
+      <div class="table-cell">
+        <p>#1</p>
+      </div>
+    </div>
+
+    <div class="table-row">
+      <div class="table-cell">
+        <div class='thumb'> <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/zero">
+    <img src="https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4ZbzOZt1Sur77RZTFwYVJ4/30037e84b2948449652547f06df146e0/Y5S3_BADGE_Zero_L.png" width=125 alt="Clickable Image"></div></a>
+      </div>
+      <div class="table-cell">
+        <p>Zero</p>
+      </div>
+      <div class="table-cell">
+        <p>#2 </p>
+      </div>
+    </div>
+
+    <div class="table-row">
+      <div class="table-cell">
+         <div class='thumb'> <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/valkyrie">
+    <img src="https://static.wikia.nocookie.net/rainbowsix/images/f/f0/ValkyrieIconN.png" width=125 alt="Clickable Image"></div></a>
+      </div>
+      <div class="table-cell">
+        <p>Valkyrie</p>
+      </div>
+      <div class="table-cell">
+        <p>#3 </p>
+      </div>
+    </div>
+    <div class="table-row">
+      <div class="table-cell">
+       <div class='thumb'> <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/echo">
+    <img src="https://static.wikia.nocookie.net/rainbowsix/images/0/09/EchoIconN.png" width=125 alt="Clickable Image"></div></a>
+      </div>
+      <div class="table-cell">
+        <p>Echo</p>
+      </div>
+      <div class="table-cell">
+        <p>#4</p>
+      </div>
+    </div>
+    <div class="table-row">
+      <div class="table-cell">
+        <div class='thumb'> <a href="https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/brava">
+    <img src="https://static.wikia.nocookie.net/rainbowsix/images/8/88/Brava_icon.png" width=125 alt="Clickable Image"></div></a>
+      </div>
+      <div class="table-cell">
+        <p>Brava</p>
+      </div>
+      <div class="table-cell">
+        <p>#5</p>
+      </div>
+    </div>
+   
+ 
+       
+         
+        </div>
+      
+    
+</BODY>
+
+</html>
+
+*{
+  margin:0;
+  padding: 0;
+  
+}
+.table-box
+{
+  margin: 0px auto;
+  
+}
+.table-row{
+  display: table;
+  width: 80%;
+  margin: 10px auto;
+  font-family: sans-serif;
+  background: transparent;
+  padding: 12px 0;
+  color: #555;
+  font-size: 13px;
+  box-shadow: 0 1px 4px  0 rgba(0,0,50,0.3);
+  
+}
+.table-cell{
+  display: table-cell;
+  width:30%;
+  text-align: center;
+  padding: 1pc;
+  border-right: 1px solid #d6d4d4;
+  vetical-align: center;
+    font-family: sans-serif;
+  font-size:20px;
+}
+.table-head
+{
+  background-image:  url("https://img.freepik.com/premium-photo/spectrum-abstract-wave-background-colorful-parallel-vertical-lines-background_1093415-961.jpg" );
+  background-position: center;
+
+   
+  box-shadow: none;
+  color: 	#fff;
+  font-weight: 600;
+  font-size: 27px
+}
+  
+   .h3
+{
+color: #a26b8b;
+  font-family:sans-serif;
+}
+.titling{
+    font-family: sans-serif;
+}
+.titlesub{
+  font-family: sans-serif;
+}
+.thumb :hover{
+ position:relative;
+
+    width:140px;
+    height:auto;
+
+    cursor: pointer;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.2s;
+    -webkit-transition-timing-function: ease
+}
